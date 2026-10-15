@@ -1,2 +1,3 @@
 # knowledge-ingestion-fixture
-Throwaway fixture for a Dagster commit-sensor spike; deleted after it
+
+Moved at 2026-10-15T21:04:35Z
